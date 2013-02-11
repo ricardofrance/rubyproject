@@ -15,9 +15,9 @@
 development:
   adapter: postgresql
   encoding: utf8
-  database: rubyproject_development
+  database: postgres
   pool: 5
-  username: rubyproject
+  username: postgres
   password: ofmix
 
   # Connect on a TCP socket. Omitted by default since the client uses a
